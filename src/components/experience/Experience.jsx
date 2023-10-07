@@ -78,6 +78,14 @@ const Experience = () => {
                         < BiSolidCommentCheck className="experience__details-icons
                         "/>
                         <div>
+                        <h4>Next.js</h4>
+                        <small className="text-light">intermediate</small>
+                        </div>
+                        </article>
+                        <article className="experience__details">
+                        < BiSolidCommentCheck className="experience__details-icons
+                        "/>
+                        <div>
                         <h4>Express.js</h4>
                         <small className="text-light">basic</small>
                         </div>
@@ -90,16 +98,8 @@ const Experience = () => {
                         <small className="text-light">intermediate</small>
                         </div>
                         </article>
-                        <article className="experience__details">
-                        < BiSolidCommentCheck className="experience__details-icons
-                        "/>
-                        <div>
-                        <h4>Mongo DB</h4>
-                        <small className="text-light">basic</small>
-                        </div>
-                        </article>
-                        < BiSolidCommentCheck className="experience__details-icons
-                        "/>
+                        
+                        
                         
                         
                         </div>
