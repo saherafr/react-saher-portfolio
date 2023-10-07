@@ -10,16 +10,16 @@ const data=[
     {
         id:1,
         img:IMG1,
-        title:"Childhood Days",
-        desc:"Childhood days a project created using the react hooks. This project holds some of our childhood memories which taught us some lessons in disguise of entertainment",
-        github:"https://github.com/saherafr/childhood-days.git"
+        title:"Portfolio",
+        desc:"Developed a responsive and dynamic personal portfolio website using ReactJS to showcase projects, skills, and professional experiences.Implemented React Router for seamless navigation between pages and utilized React Hooks for state management and lifecycle events.",
+        github:"https://github.com/saherafr/react-saher-portfolio.git"
     },
     {
         id:2,
         img:IMG2,
-        title:"Covid-19 Tracker",
-        desc:"Covid-19 Tracker is a project created using the react hooks. This project shows the current status of covid-19 cases in India and also shows the status of covid-19 cases in each state of India",
-        github:"https://github.com/saherafr/childhood-days.git"
+        title:"What deals today, Amazon?",
+        desc:"Developed a robust API to scrape product details, reviews, and offers from Amazon, using Node.js, Express, and the ScraperAPI service. Deployed the service for real-time access, handling dynamic content challenges typical of e-commerce platforms.",
+        github:"https://github.com/saherafr/amzn_scraper.git"
     },
     {       
         id:3,
