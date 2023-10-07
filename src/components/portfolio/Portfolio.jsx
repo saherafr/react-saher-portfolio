@@ -45,7 +45,8 @@ const Portfolio = () => {
                 </div>
                     <h3><b>{title}</b></h3>
                     <div className='portfolio__item-cta'>
-                        <a href={github} className="btn btn-primary" target='_blank'>Github</a>
+                    <a href={github} className="btn btn-primary" target='_blank' rel="noreferrer">Github</a>
+
                         <p><i>{desc}</i></p>
                         
                         </div>
